@@ -1,0 +1,34 @@
+C Programming Language:
+
+Programming: set of instructions / statements
+
+Human						Computer
+
+English					0, 1 (Binary- 2 - 0 or 1)
+
+Medium of Communiation: Compiler / Translator
+
+English ---> Binary
+Binary ----> English
+
+English 					Binary
+High Level 				Low Level Language
+Language
+
+
+Binary Language?
+
+Computer System--> Electronic Device ---> current flow (1) ---> No current flow (0)
+
+How to run the code:
+
+1. Compile
+2. Run
+
+Code:
+
+1. Turbo
+2. Code blocks
+
+
+
